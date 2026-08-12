@@ -1,4 +1,4 @@
-module github.com/jacobhuneke/genesis
+module github.com/jacobhuneke/bible
 
 go 1.25.0
 
